@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Git and Github</tittle>
+    </head>
+    <body>
+        <div style="background-color: aquamarine;color:black">
+<p> welcome to git</p>
+        </div>
+    </body>
+</html>
